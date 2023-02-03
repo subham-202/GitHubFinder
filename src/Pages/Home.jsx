@@ -1,11 +1,12 @@
 import React from 'react'
+import UserResult from '../Components/users/UserResult'
+import UserSearch from '../Components/users/UserSearch'
 
 function Home() {
   return (
     <div>
-      <h1 className="text-6xl">
-        Wlecome
-      </h1>
+        <UserSearch/>
+        <UserResult/>
     </div>
   )
 }
