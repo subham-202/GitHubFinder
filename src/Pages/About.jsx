@@ -7,13 +7,8 @@ return (
     <p className='mb-4 text-2xl font-light'>
         A React app to search GitHub profiles and see profile details. This
         project is  done by
-        <a href='#'>
-            {' '}
-            {/* React Front To Back */}
-        </a>{' '}
-        {/* Udemy course by */}
         <strong>
-            <a href='#'> Subham Deep</a>
+            <a href='https://github.com/subham-202'> Subham Deep</a>
         </strong>
         .
         </p>
